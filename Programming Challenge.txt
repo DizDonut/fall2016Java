@@ -1,0 +1,25 @@
+Programming Challenge 
+
+
+A car's miles-per-gallon (MPG) can be calculated with the following formula:
+
+
+MPG = Miles driven / Gallons of gas used
+
+
+Write a program that will read a text file that contains the number of miles driven and the gallons of gas used by different car models. The program should calculate the car's miles-per-gallon and display the result on the screen. The program should also display the average miles per gallon. 
+
+
+
+Process the file in such a way that it can handle a similarly formatted file that contains any number of customers. The text file should not be edited. Your program should be able to process the text file as is.
+ 
+
+The text file contains the following:
+
+Car type
+Miles driven
+Gas gallons
+
+Text filename: MilesPerGallon
+
+

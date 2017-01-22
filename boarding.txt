@@ -1,0 +1,35 @@
+Sally
+Smith
+Poodle
+5
+7
+
+Mark
+Johnson
+Pit Bull
+20
+5
+
+Mike
+Hampton
+Hound
+13
+3
+
+Dave
+Bryant
+Doberman Pinscher
+25
+4
+
+Vivian
+Jones
+Rottweiler
+30
+2
+
+Regina
+Medley
+Husky
+35
+8

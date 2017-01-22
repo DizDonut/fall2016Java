@@ -1,0 +1,15 @@
+Jetta
+100
+6
+
+Prius
+200
+4
+
+Accord
+300
+20
+
+Corolla
+400
+45
